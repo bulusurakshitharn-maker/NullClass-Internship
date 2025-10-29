@@ -8,7 +8,7 @@ Tasks Covered
 5.	End-to-End checkout process with conditions
 6.	Product filters and purchase flow
 7.	Test report generation
-8.	
+   
 Tools & Technologies
 •	Java
 •	Selenium WebDriver
