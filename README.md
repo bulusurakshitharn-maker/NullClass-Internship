@@ -1,5 +1,4 @@
-NullClass-Internship
-Internship Project
+NullClass-Internship Project
 This repository contains my internship automation testing tasks using Selenium, Java, and TestNG.
 Tasks Covered
 1.	Automating Amazon product search and validation
