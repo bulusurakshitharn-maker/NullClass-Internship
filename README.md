@@ -9,7 +9,8 @@ Tasks Covered
 6.	Product filters and purchase flow
 7.	Test report generation
    
-Tools & Technologies
+Tools & Technologies: 
+
 •	Java
 •	Selenium WebDriver
 •	TestNG
