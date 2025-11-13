@@ -1,4 +1,5 @@
 Internship Project
+
 This repository contains my internship automation testing tasks using Selenium, Java, and TestNG.
 Tasks Covered
 1.	Automating Amazon product search and validation
@@ -10,7 +11,6 @@ Tasks Covered
 7.	Test report generation
    
 Tools & Technologies: 
-
 •	Java
 •	Selenium WebDriver
 •	TestNG
